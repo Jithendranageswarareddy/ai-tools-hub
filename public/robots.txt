@@ -1,0 +1,6 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://funny-smakager-93c79e.netlify.app/sitemap.xml 
